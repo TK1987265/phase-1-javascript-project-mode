@@ -62,8 +62,9 @@ HTML, CSS, and JavaScript and will communicate with a public API.
 
 - Plan out your features
 - Develop user stories
-  - “As [ a user ], I want [ to perform this action ] so that
-    [ I can accomplish this goal ].”
+- As a user, I want to see a list of Star Wars movies when I visit the page so that I can choose which movie to explore.
+- As a user, I want to be able to click on a movie title to view more details about that movie.
+- As a user, I want to be able to double-click on a movie title to close the details view.
   - Features should not need you there to explain them to users
 - Plan out the structure of your JSON requests
 

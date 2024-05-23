@@ -1,0 +1,32 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Dark mode styles */
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .dark-mode header {
+    background-color: #222;
+  }
+  
+  .dark-mode button {
+    background-color: #222;
+  }
